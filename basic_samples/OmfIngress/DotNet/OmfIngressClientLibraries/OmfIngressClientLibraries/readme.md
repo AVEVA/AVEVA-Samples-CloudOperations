@@ -211,3 +211,6 @@ Replace the placeholders in the [appsettings](./appsettings.json) file with your
 	dotnet restore
 	dotnet test	
 ```
+
+For the main OCS page [ReadMe](https://github.com/osisoft/OSI-Samples--OCS)<br />
+For the main samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)

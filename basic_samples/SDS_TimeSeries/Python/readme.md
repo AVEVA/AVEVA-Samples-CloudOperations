@@ -63,5 +63,5 @@ ClientSecret = REPLACE_WITH_APPLICATION_SECRET
  Automated test uses Python 3.6.8 x64
 
 For the general steps or switch languages see the Task  [ReadMe](../../../)<br />
-For the main OCS page [ReadMe](../../../../../)<br />
-For the main landing page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
+For the main OCS page [ReadMe](https://github.com/osisoft/OSI-Samples--OCS)<br />
+For the main samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)

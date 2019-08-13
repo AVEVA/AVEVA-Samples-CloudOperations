@@ -595,4 +595,4 @@ deletion will fail if any streams still reference them.*
 
 For the general steps or switch languages see the Task  [ReadMe](../../../)<br />
 For the main OCS page [ReadMe](../../../../../)<br />
-For the main landing page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
+For the main samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)

@@ -45,4 +45,4 @@ Step numbers are searchable in the code.  For find the relevant part of the code
 
 
 For the main OCS page [ReadMe](../../)<br />
-For the main landing page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
+For the main samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
