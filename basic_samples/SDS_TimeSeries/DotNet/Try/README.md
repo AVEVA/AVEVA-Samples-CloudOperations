@@ -73,5 +73,5 @@ Note: you do not have to use this sample in try .NET.  It will work like any oth
 
 
 For the general steps or switch languages see the Task  [ReadMe](../../../)<br />
-For the main OCS page [ReadMe](../../../../../)<br />
-For the main landing page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
+For the main OCS page [ReadMe](https://github.com/osisoft/OSI-Samples--OCS)<br />
+For the main samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
