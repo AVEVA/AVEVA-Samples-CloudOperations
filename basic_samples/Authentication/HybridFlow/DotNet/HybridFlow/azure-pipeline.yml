@@ -1,4 +1,5 @@
 
+jobs:      
 - job: Auth_Hybrid_DotNet
 
   pool:
@@ -18,7 +19,7 @@
       inputs:
         sourceFolder: $(Agent.TempDirectory)
         contents: Hybrid_prod_appsettings.json
-        targetFolder: '$(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/HybridFlow/DotNet/HybridFlow/'
+        targetFolder: '$(Build.SourcesDirectory)/basic_samples/Authentication/HybridFlow/DotNet/HybridFlow/'
         #cleanTargetFolder: false # Optional  
         overWrite: true # Optional
         #flattenFolders: false # Optional 
@@ -26,22 +27,22 @@
 
     - script: |
         del appsettings.json
-      workingDirectory: $(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/HybridFlow/DotNet/HybridFlow/
+      workingDirectory: $(Build.SourcesDirectory)/basic_samples/Authentication/HybridFlow/DotNet/HybridFlow/
       displayName: 'rename config file'       
 
     - script: |
         rename Hybrid_prod_appsettings.json appsettings.json
-      workingDirectory: $(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/HybridFlow/DotNet/HybridFlow/
+      workingDirectory: $(Build.SourcesDirectory)/basic_samples/Authentication/HybridFlow/DotNet/HybridFlow/
       displayName: 'rename config file'       
       
     - script: |
         dotnet restore
         dotnet build
-      workingDirectory: $(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/HybridFlow/DotNet/HybridFlow/
+      workingDirectory: $(Build.SourcesDirectory)/basic_samples/Authentication/HybridFlow/DotNet/HybridFlow/
       displayName: 'Run Test'  
       
     - script: |
         dotnet restore
         dotnet test
-      workingDirectory: $(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/HybridFlow/DotNet/HybridFlowTest/
+      workingDirectory: $(Build.SourcesDirectory)/basic_samples/Authentication/HybridFlow/DotNet/HybridFlowTest/
       displayName: 'Run Test' 
