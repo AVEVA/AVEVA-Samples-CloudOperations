@@ -8,8 +8,6 @@ There are three types of samples/apps in the repo:
 
 * <img src="./miscellaneous/images/app-type-getting-started.png" alt="getting-started icon">  Getting Started - OCS focused samples for a task, usually implemented as a simple console app.  This also includes base libraries that may be used in other apps.
 
-* <img src="./miscellaneous/images/app-type-e2e.png" alt="e2e icon">   End-End apps - Real world examples of web, desktop, mobile, and other applications using OCS data.  
-
 Some tasks and individual language examples may have some additional labels as follows:
 
 * \* denotes that the language example uses the rest API directily instead of a library
