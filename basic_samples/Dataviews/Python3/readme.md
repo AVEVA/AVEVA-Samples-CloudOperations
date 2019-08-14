@@ -37,7 +37,6 @@ or
 -----------
 
 
-
  Automated test uses Python 3.6.8 x64
 
 
