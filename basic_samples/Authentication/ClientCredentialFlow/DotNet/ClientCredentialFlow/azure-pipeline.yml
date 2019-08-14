@@ -1,4 +1,5 @@
 
+jobs:      
 - job: Auth_CC_DotNet
 
   pool:
@@ -18,7 +19,7 @@
       inputs:
         sourceFolder: $(Agent.TempDirectory)
         contents: prod_appsettings.json
-        targetFolder: '$(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/ClientCredentialFlow/DotNet/ClientCredentialFlow/'
+        targetFolder: '$(Build.SourcesDirectory)/basic_samples/Authentication/ClientCredentialFlow/DotNet/ClientCredentialFlow/'
         #cleanTargetFolder: false # Optional  
         overWrite: true # Optional
         #flattenFolders: false # Optional 
@@ -26,17 +27,17 @@
 
     - script: |
         mv prod_appsettings.json appsettings.json
-      workingDirectory: $(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/ClientCredentialFlow/DotNet/ClientCredentialFlow/
+      workingDirectory: $(Build.SourcesDirectory)/basic_samples/Authentication/ClientCredentialFlow/DotNet/ClientCredentialFlow/
       displayName: 'rename config file'        
       
     - script: |
         dotnet restore
         dotnet build
-      workingDirectory: $(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/ClientCredentialFlow/DotNet/ClientCredentialFlowTest/
+      workingDirectory: $(Build.SourcesDirectory)/basic_samples/Authentication/ClientCredentialFlow/DotNet/ClientCredentialFlowTest/
       displayName: 'Run Test'  
       
     - script: |
         dotnet restore
         dotnet test
-      workingDirectory: $(Build.SourcesDirectory)/ocs_samples/basic_samples/Authentication/ClientCredentialFlow/DotNet/ClientCredentialFlowTest/
+      workingDirectory: $(Build.SourcesDirectory)/basic_samples/Authentication/ClientCredentialFlow/DotNet/ClientCredentialFlowTest/
       displayName: 'Run Test' 
