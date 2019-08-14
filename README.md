@@ -4,9 +4,9 @@ centralized environment to aggregate data for reporting, advanced analytics, and
 
 If you are interested in other OSIsoft samples please see [OSIsoft Samples](https://github.com/osisoft/OSI-Samples).  
 
-There are three types of samples/apps in the repo:
+There is currently one type of sample in the repo:
 
-* <img src="./miscellaneous/images/app-type-getting-started.png" alt="getting-started icon">  Getting Started - OCS focused samples for a task, usually implemented as a simple console app.  This also includes base libraries that may be used in other apps.
+* <img src="./miscellaneous/images/app-type-getting-started.png" alt="getting-started icon">  Getting Started - OCS focused samples for a task, usually implemented as a simple console app or single page application.  There are also base libraries that may be used in other apps.
 
 Some tasks and individual language examples may have some additional labels as follows:
 
@@ -40,7 +40,7 @@ For OMF to OCS samples please see the OMF repository: [OSIsoft-Samples--OMF](htt
 
 ## Credentials 
 
-A credential config.ini or app.config file is used in the samples unless otherwise noted in the sample.  
+A credential file is used in the samples unless otherwise noted in the sample.  The name and location of the credential file should be noted in the sample's readme.  
    
 
      Note: This is not a secure way to store credentials.  This is to be used at your own risk.  
