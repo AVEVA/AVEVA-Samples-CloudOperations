@@ -1,8 +1,8 @@
 # Welcome
 
-The SDS Client time series samples are introductory, language-specific examples of programming against the SDS Service. They are intended as instructional samples only.
+The SDS Client time series samples are introductory, language-specific samples of programming against the SDS Service. They are intended as instructional samples only.
 
-There are some differences between these samples and the Waveform samples. The differences include the Type being used, compression settings, and many of the steps. Please check out the Sample Pattern and code of both samples to determine which sample is most appropriate for you. The readme of each sample will also discuss its compression strategy.
+There are some differences between these samples and the Waveform samples. The differences include the Type being used, compression settings, and many of the steps. Please check out the Sample Pattern and code of both samples to determine which sample is most appropriate for you. The ReadMe of each sample will also discuss its compression strategy.
 
 ## Sample Pattern
 

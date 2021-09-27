@@ -20,37 +20,25 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <th align="middle" colspan="2">
       <h2>
-        <a
-          href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/AUTHENTICATION_README.md"
-        >
-          Authentication
-        </a>
+        <a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/AUTHENTICATION.md">Authentication</a>
       </h2>
     </th>
   </tr>
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a
-          href="https://github.com/osisoft/sample-ocs-authentication_client_credentials-dotnet"
-        >
-          Client Credentials
-        </a>
+        <a href="https://github.com/osisoft/sample-ocs-authentication_client_credentials-dotnet">Client Credentials</a>
       </b>
       <br />
       Click for
-      <a href="docs/AUTHENTICATION_README.md"> details </a>
+      <a href="docs/AUTHENTICATION.md"> details </a>
       on this type of authentication
       <br />
       <br />
       <table align="middle">
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-authentication_client_credentials-dotnet"
-            >
-              .NET
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-authentication_client_credentials-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
@@ -67,26 +55,18 @@ The official OCS samples are divided in multiple categories depending on the sce
     </td>
     <td align="middle" valign="top">
       <b>
-        <a
-          href="https://github.com/osisoft/sample-ocs-authentication_hybrid_flow-dotnet"
-        >
-          Hybrid Flow
-        </a>
+        <a href="https://github.com/osisoft/sample-ocs-authentication_hybrid_flow-dotnet"> Hybrid Flow</a>
       </b>
       <br />
       Click for
-      <a href="docs/AUTHENTICATION_README.md"> details </a>
+      <a href="docs/AUTHENTICATION.md"> details </a>
       on this type of authentication
       <br />
       <br />
       <table align="middle">
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-authentication_hybrid-dotnet"
-            >
-              .NET
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-authentication_hybrid-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
@@ -105,22 +85,18 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="docs/AUTHENTICATION_README.md"> Authorization Code + PKCE </a>
+        <a href="docs/AUTHENTICATION.md"> Authorization Code + PKCE </a>
       </b>
       <br />
       Click for
-      <a href="docs/AUTHENTICATION_README.md"> details </a>
+      <a href="docs/AUTHENTICATION.md"> details </a>
       on this type of authentication
       <br />
       <br />
       <table align="middle">
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-authentication_authorization-dotnet"
-            >
-              .NET
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-authentication_authorization-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
@@ -135,11 +111,7 @@ The official OCS samples are divided in multiple categories depending on the sce
         </tr>
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-authentication_authorization-nodejs"
-            >
-              NodeJS
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-authentication_authorization-nodejs">NodeJS</a>
           </td>
           <td align="middle">
             <a
@@ -154,11 +126,7 @@ The official OCS samples are divided in multiple categories depending on the sce
         </tr>
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-authentication_authorization-powerbi"
-            >
-              PowerBI
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-authentication_authorization-powerbi">PowerBI</a>
           </td>
           <td align="middle">
             <a
@@ -173,11 +141,7 @@ The official OCS samples are divided in multiple categories depending on the sce
         </tr>
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-authentication_authorization-python"
-            >
-              Python
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-authentication_authorization-python">Python</a>
           </td>
           <td align="middle">
             <a
@@ -196,32 +160,30 @@ The official OCS samples are divided in multiple categories depending on the sce
   </tr>
   <tr>
     <th align="middle" colspan="2">
-      <h2>Types, Streams, and Retrieving Data</h2>
+      <h2>        
+      <a href="https://github.com/osisoft/OSI-Samples-OCS/docs/COMMON_ACTIONS.md">Types, Streams, and Retrieving Data</a>
+      </h2>
     </th>
   </tr>
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="docs/SDS_WAVEFORM_README.md"> WaveForm </a>
+        <a href="docs/SDS_WAVEFORM.md"> WaveForm </a>
       </b>
       <br />
       Covers some typical operations against the SDS, including client
       credential authentication, creating, updating, and deleting types, streams
       and events. This uses a non-time Series Type. Some tasks are different
       from the other "Types, Streams, and retrieving Data" task, so look at the
-      task readme for details. This is a recommended starting example, and a
+      task ReadMe for details. This is a recommended starting sample, and a
       good a base for all other Tasks.
-      <a href="docs/SDS_WAVEFORM_README.md"> Details </a>
+      <a href="docs/SDS_WAVEFORM.md"> Details </a>
       <br />
       <br />
       <table align="middle">
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-waveform_libraries-dotnet"
-            >
-              .NET Libraries
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-waveform_libraries-dotnet">.NET Libraries</a>
           </td>
           <td align="middle">
             <a
@@ -236,11 +198,7 @@ The official OCS samples are divided in multiple categories depending on the sce
         </tr>
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-waveform_rest_api-dotnet"
-            >
-              .NET REST API
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-waveform_rest_api-dotnet">.NET REST API</a>
           </td>
           <td align="middle">
             <a
@@ -325,16 +283,16 @@ The official OCS samples are divided in multiple categories depending on the sce
     </td>
     <td align="middle" valign="top">
       <b>
-        <a href="docs/SDS_TIME_SERIES_README.md"> Time-Series </a>
+        <a href="docs/SDS_TIME_SERIES.md"> Time-Series </a>
       </b>
       <br />
       Covers some typical operations against the SDS, including client
       credential authentication, creating, and deleting types and streams. This
       sample is based on Time-Series data. Some tasks are different from the
       other "Types, Streams, and retrieving Data" task, so look at the task
-      readme for details. This is a recommended starting example, and a good a
+      ReadMe for details. This is a recommended starting sample, and a good a
       base for all other Tasks.
-      <a href="docs/SDS_TIME_SERIES_README.md"> Details </a>
+      <a href="docs/SDS_TIME_SERIES.md"> Details </a>
       <br />
       <br />
       <table align="middle">
@@ -377,15 +335,14 @@ The official OCS samples are divided in multiple categories depending on the sce
   </tr>
   <tr>
     <th align="middle" colspan="2">
-      <h2>Data Ingress</h2>
+      <h2>
+      <a href="https://github.com/osisoft/OSI-Samples-OCS/docs/DATA_INGRESS.md">Data Ingress</a></h2>
     </th>
   </tr>
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="https://github.com/osisoft/sample-ocs-omf_ingress-dotnet">
-          OMF Ingress
-        </a>
+        <a href="https://github.com/osisoft/sample-ocs-omf_ingress-dotnet">OMF Ingress</a>
       </b>
       <br />
       Covers the basic functionality of configuring and using the OMF Ingress
@@ -413,9 +370,7 @@ The official OCS samples are divided in multiple categories depending on the sce
     </td>
     <td align="middle" valign="top">
       <b>
-        <a href="https://github.com/osisoft/sample-ocs-bulk_upload-dotnet">
-          Bulk Upload
-        </a>
+        <a href="https://github.com/osisoft/sample-ocs-bulk_upload-dotnet"> Bulk Upload </a>
       </b>
       <br />
       Demonstrates how to build a Bulk Upload utility that sends SDS objects
@@ -425,9 +380,7 @@ The official OCS samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <a href="https://github.com/osisoft/sample-ocs-bulk_upload-dotnet">
-              .NET
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-bulk_upload-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
@@ -446,9 +399,7 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="https://github.com/osisoft/sample-ocs-csv_to_ocs-dotnet">
-          CSV to OCS
-        </a>
+        <a href="https://github.com/osisoft/sample-ocs-csv_to_ocs-dotnet">CSV to OCS</a>
       </b>
       <br />
       Shows how to send a basic csv file to OCS using SDS calls
@@ -457,9 +408,7 @@ The official OCS samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <a href="https://github.com/osisoft/sample-ocs-csv_to_ocs-dotnet">
-              .NET
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-csv_to_ocs-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
@@ -478,15 +427,14 @@ The official OCS samples are divided in multiple categories depending on the sce
   </tr>
   <tr>
     <th align="middle" colspan="2">
-      <h2>Visualization</h2>
+      <h2>
+        <a href="https://github.com/osisoft/OSI-Samples-OCS/docs/VISUALIZATION.md">Visualization</a></h2>
     </th>
   </tr>
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="https://github.com/osisoft/sample-ocs-grafana-nodejs">
-          Grafana
-        </a>
+        <a href="https://github.com/osisoft/sample-ocs-grafana-nodejs">Grafana </a>
       </b>
       <br />
       Demonstrates how to build a Grafana plugin that retrieves stream data from
@@ -496,9 +444,7 @@ The official OCS samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <a href="https://github.com/osisoft/sample-ocs-grafana-nodejs">
-              NodeJS
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-grafana-nodejs">NodeJS</a>
           </td>
           <td align="middle">
             <a
@@ -515,11 +461,7 @@ The official OCS samples are divided in multiple categories depending on the sce
     </td>
     <td align="middle" valign="top" width="50%">
       <b>
-        <a
-          href="https://github.com/osisoft/sample-sds-visualization-angular"
-        >
-          SDS Visualization
-        </a>
+        <a href="https://github.com/osisoft/sample-sds-visualization-angular">SDS Visualization</a>
       </b>
       <br />
       This sample demonstrates a basic visualization application that can find and trend values from streams in the Sequential Data Store.
@@ -528,11 +470,7 @@ The official OCS samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-sds-visualization-angular"
-            >
-              Angular
-            </a>
+            <a href="https://github.com/osisoft/sample-sds-visualization-angular">Angular</a>
           </td>
           <td align="middle">
             <a
@@ -551,25 +489,17 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <td align="middle" valign="top" width="50%">
       <b>
-        <a
-          href="docs/ASSETS_README.md"
-        >
-          Assets
-        </a>
+        <a href="docs/ASSETS.md">Assets</a>
       </b>
       <br />
       These samples highlight basic operations with Assets in OCS, including create, update, data retrieval, and delete operations on Assets.
-      <a href="docs/ASSETS_README.md"> Details </a>
+      <a href="docs/ASSETS.md"> Details </a>
       <br />
       <br />
       <table align="middle">
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-assets_rest_api-dotnet"
-            >
-              .NET
-            </a>
+            <ahref="https://github.com/osisoft/sample-ocs-assets_rest_api-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
@@ -584,11 +514,7 @@ The official OCS samples are divided in multiple categories depending on the sce
         </tr>
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-assets-python"
-            >
-              Python
-            </a>
+            <ahref="https://github.com/osisoft/sample-ocs-assets-python">Python</a>
           </td>
           <td align="middle">
             <a
@@ -607,18 +533,18 @@ The official OCS samples are divided in multiple categories depending on the sce
   </tr>
   <tr>
     <th align="middle" colspan="2">
-      <h2>Analytics</h2>
+      <h2><a href="https://github.com/osisoft/OSI-Samples-OCS/docs/ANALYTICS.md">Analytics</a></h2>
     </th>
   </tr>
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="docs/DATA_VIEWS_README.md"> Data Views </a>
+        <a href="docs/DATA_VIEWS.md"> Data Views </a>
       </b>
       <br />
       These samples highlight basic operations of Data Views for OCS, including
       creation, updating, getting data from and deletion of Data Views.
-      <a href="docs/DATA_VIEWS_README.md">Details</a>
+      <a href="docs/DATA_VIEWS.md">Details</a>
       <br />
       <br />
       <table align="middle">
@@ -677,11 +603,7 @@ The official OCS samples are divided in multiple categories depending on the sce
     </td>
     <td align="middle" valign="top">
       <b>
-        <a
-          href="https://github.com/osisoft/sample-ocs-data_views_jupyter-python"
-        >
-          Data Views Jupyter
-        </a>
+        <a href="https://github.com/osisoft/sample-ocs-data_views_jupyter-python">Data Views Jupyter</a>
       </b>
       <br />
       This sample demonstrates how to utilize OCS Data Views to do some basic
@@ -691,11 +613,7 @@ The official OCS samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <a
-              href="https://github.com/osisoft/sample-ocs-data_views_jupyter-python"
-            >
-              Jupyter Notebook
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-data_views_jupyter-python">Jupyter Notebook</a>
           </td>
           <td align="middle">
             <a
@@ -714,9 +632,7 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="https://github.com/osisoft/sample-ocs-data_views_r-r">
-          Data Views R
-        </a>
+        <a href="https://github.com/osisoft/sample-ocs-data_views_r-r">Data Views R</a>
       </b>
       <br />
       Demonstrates how to create a data frame in R from an OCS Data View
@@ -725,9 +641,7 @@ The official OCS samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <a href="https://github.com/osisoft/sample-ocs-data_views_r-r">
-              R
-            </a>
+            <a href="https://github.com/osisoft/sample-ocs-data_views_r-r">R</a>
           </td>
           <td align="middle">
             <a
@@ -746,7 +660,7 @@ The official OCS samples are divided in multiple categories depending on the sce
   </tr>
   <tr>
     <th align="middle" colspan="2">
-      <h2>Functionality & Utilities</h2>
+      <h2><a href="https://github.com/osisoft/OSI-Samples-OCS/docs/OTHER.md">Functionality & Utilities</a></h2>
     </th>
   </tr>
   <tr>
@@ -810,13 +724,13 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="docs/SAMPLE_LIBRARIES_README.md"> Sample Libraries </a>
+        <a href="docs/SAMPLE_LIBRARIES.md"> Sample Libraries </a>
       </b>
       <br />
       These sample libraries are used as the base for the other samples. They
       are designed to be straightforward implementations of the REST APIs. They
       are for use in the samples.
-      <a href="docs/SAMPLE_LIBRARIES_README.md"> Details </a>
+      <a href="docs/SAMPLE_LIBRARIES.md"> Details </a>
       <br />
       <br />
       <table align="middle">
@@ -855,7 +769,7 @@ For OMF to OCS samples please see the OMF repository: [OSI-Samples-OMF](https://
 
 ## Credentials
 
-A credential file is used in the samples unless otherwise noted in the sample. The name and location of the credential file should be noted in the sample's readme.  
+A credential file is used in the samples unless otherwise noted in the sample. The name and location of the credential file should be noted in the sample's ReadMe.  
 **Note**: This is not a secure way to store credentials. This is to be used at your own risk.  
 You will need to modify these files locally when you run the samples.
 
