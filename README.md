@@ -499,7 +499,7 @@ The official OCS samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <ahref="https://github.com/osisoft/sample-ocs-assets_rest_api-dotnet">.NET</a>
+            <a href="https://github.com/osisoft/sample-ocs-assets_rest_api-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
@@ -514,7 +514,7 @@ The official OCS samples are divided in multiple categories depending on the sce
         </tr>
         <tr>
           <td align="middle">
-            <ahref="https://github.com/osisoft/sample-ocs-assets-python">Python</a>
+            <a href="https://github.com/osisoft/sample-ocs-assets-python">Python</a>
           </td>
           <td align="middle">
             <a
@@ -529,7 +529,32 @@ The official OCS samples are divided in multiple categories depending on the sce
         </tr>
       </table>
     </td>
-    <td></td>
+    <td align="middle" valign="top" width="50%">
+      <b>
+        <a href="https://github.com/osisoft/sample-ocs-data_retrieval-power_query_m">Power Query M</a>
+      </b>
+      <br />
+      Shows how to pull data into applications that support Power Query M, such as Power BI and Microsoft Excel.
+      <br />
+      <br />
+      <table align="middle">
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-ocs-data_retrieval-power_query_m">Power Query M</a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3963&repoName=osisoft%2Fsample-ocs-data_retrieval-power_query_m&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-data_retrieval-power_query_m?repoName=osisoft%2Fsample-ocs-data_retrieval-power_query_m&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
     <th align="middle" colspan="2">
