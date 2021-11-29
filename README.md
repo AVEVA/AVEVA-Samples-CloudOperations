@@ -782,6 +782,32 @@ The official OCS samples are divided in multiple categories depending on the sce
       </table>
     </td>
     <td align="middle" valign="top">
+      <b>
+        <a href="https://github.com/osisoft/sample-ocs-security_management-python">Security Management</a>
+      </b>
+      <br />
+      Covers security configuration within OCS. This includes creating a custom role, creating a user, inviting a user, setting Access Control Lists (ACLs) for collections, setting ACLs for collection items, setting an owner for a collection item, and retrieving access rights.
+      <br />
+      <br />
+      <table align="middle">
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-ocs-security_management-python">
+              Python
+            </a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4027&repoName=osisoft%2Fsample-ocs-security_management-python&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-security_management-python?repoName=osisoft%2Fsample-ocs-security_management-python&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
