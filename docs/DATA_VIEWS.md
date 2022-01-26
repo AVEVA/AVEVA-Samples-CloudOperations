@@ -16,6 +16,7 @@ The steps performed in the samples are similar and follow this general flow as s
 1. Consolidate data fields
 1. Add UoM columns to the output
 1. Add summary columns to the output (mean and total)
+1. Demonstrate accept-verbosity header usage 
 1. Delete sample objects from OCS
 
 | Languages                                                         | Test Status                                                                                                                                                                                                                                                                                                                                         |

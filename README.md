@@ -161,7 +161,7 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <th align="middle" colspan="2">
       <h2>        
-      <a href="https://github.com/osisoft/OSI-Samples-OCS/docs/COMMON_ACTIONS.md">Types, Streams, and Retrieving Data</a>
+      <a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md">Types, Streams, and Retrieving Data</a>
       </h2>
     </th>
   </tr>
@@ -336,7 +336,7 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <th align="middle" colspan="2">
       <h2>
-      <a href="https://github.com/osisoft/OSI-Samples-OCS/docs/DATA_INGRESS.md">Data Ingress</a></h2>
+      <a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/DATA_INGRESS.md">Data Ingress</a></h2>
     </th>
   </tr>
   <tr>
@@ -428,7 +428,7 @@ The official OCS samples are divided in multiple categories depending on the sce
   <tr>
     <th align="middle" colspan="2">
       <h2>
-        <a href="https://github.com/osisoft/OSI-Samples-OCS/docs/VISUALIZATION.md">Visualization</a></h2>
+        <a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/VISUALIZATION.md">Visualization</a></h2>
     </th>
   </tr>
   <tr>
@@ -558,7 +558,7 @@ The official OCS samples are divided in multiple categories depending on the sce
   </tr>
   <tr>
     <th align="middle" colspan="2">
-      <h2><a href="https://github.com/osisoft/OSI-Samples-OCS/docs/ANALYTICS.md">Analytics</a></h2>
+      <h2><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/ANALYTICS.md">Analytics</a></h2>
     </th>
   </tr>
   <tr>
@@ -685,7 +685,7 @@ The official OCS samples are divided in multiple categories depending on the sce
   </tr>
   <tr>
     <th align="middle" colspan="2">
-      <h2><a href="https://github.com/osisoft/OSI-Samples-OCS/docs/OTHER.md">Functionality & Utilities</a></h2>
+      <h2><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/OTHER.md">Functionality & Utilities</a></h2>
     </th>
   </tr>
   <tr>
@@ -802,6 +802,38 @@ The official OCS samples are divided in multiple categories depending on the sce
             >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-security_management-python?repoName=osisoft%2Fsample-ocs-security_management-python&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="middle" valign="top">
+      <b>
+        <a href="https://github.com/osisoft/sample-ocs-stream_type_change-python"> Stream Type Change </a>
+      </b>
+      <br />
+      This sample highlights changing an OCS Stream's underlying SDS Type. The main purpose of this sample is to demonstrate the steps necessary to change the underlying SDS Type, and the secondary purpose is to provide an as-is utility to perform this Type change on PI Adapter v1.1 Streams after upgrading to v1.2.
+      <br />
+      <br />
+      <table align="middle">
+        <tr>
+          <td align="middle">
+            <a
+              href="https://github.com/osisoft/sample-ocs-stream_type_change-python"
+            >
+              Python
+            </a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4426&repoName=osisoft%2Fsample-ocs-stream_type_change-python&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-stream_type_change-python?repoName=osisoft%2Fsample-ocs-stream_type_change-python&branchName=main"
                 alt="Build Status"
               />
             </a>
