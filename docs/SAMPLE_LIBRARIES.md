@@ -6,8 +6,8 @@ The libraries are generally used in multiple other samples. They were seperated 
 
 | Languages                                                               |
 | ----------------------------------------------------------------------- |
-| [Java](https://github.com/osisoft/sample-ocs-sample_libraries-java)     |
-| [Python](https://github.com/osisoft/sample-ocs-sample_libraries-python) |
+| [Java](https://github.com/osisoft/sample-adh-sample_libraries-java)     |
+| [Python](https://github.com/osisoft/sample-adh-sample_libraries-python) |
 
-For the main OCS page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
+For the main ADH page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
 For the main samples page [ReadMe](https://github.com/osisoft/OSI-Samples)
