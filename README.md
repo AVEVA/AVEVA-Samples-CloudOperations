@@ -106,7 +106,7 @@ The official ADH samples are divided in multiple categories depending on the sce
               href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2602&repoName=osisoft%2Fsample-adh-authentication_authorization-dotnet&branchName=main"
             >
               <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/aveva.sample-adh-authentication_authorization-dotnet?repoName=osisoft%2Fsample-adh-authentication_authorization-dotnet&branchName=main"
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_authorization-dotnet?branchName=main"
                 alt="Build Status"
               />
             </a>
@@ -133,10 +133,10 @@ The official ADH samples are divided in multiple categories depending on the sce
           </td>
           <td align="middle">
             <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2608&repoName=osisoft%2Fsample-adh-authentication_authorization-powerbi&branchName=main"
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2608&branchName=main"
             >
               <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_authorization-powerbi?repoName=osisoft%2Fsample-adh-authentication_authorization-powerbi&branchName=main"
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_authorization-powerbi?branchName=main"
                 alt="Build Status"
               />
             </a>
@@ -336,58 +336,7 @@ The official ADH samples are divided in multiple categories depending on the sce
       </table>
     </td>
   </tr>
-  <tr>
-  <td align="middle" valign="top">
-      <b>
-        <a href="docs/SDS_TIME_SERIES.md"> Read-only PI to ADH </a>
-      </b>
-      <br />
-      Covers some read operations against the SDS, this
-      sample is aimed at data ingressed using PI to ADH. Some tasks are different from the
-      other "Types, Streams, and retrieving Data" task, so look at the task
-      ReadMe for details. This is a recommended starting sample if you only want to read
-      existing data without creating, updating, or deleting anything.
-      <a href="docs/PI_TO_OCS_READ_DATA.md"> Details </a>
-      <br />
-      <br />
-      <table align="middle">
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-time_series-python">
-              Python
-            </a>
-          </td>
-          <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2624&repoName=osisoft%2Fsample-adh-time_series-python&branchName=main"
-            >
-              <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-time_series-python?repoName=osisoft%2Fsample-adh-time_series-python&branchName=main"
-                alt="Build Status"
-              />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-time_series-dotnet">
-              .NET
-            </a>
-          </td>
-          <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2623&repoName=osisoft%2Fsample-adh-time_series-dotnet&branchName=main"
-            >
-              <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-time_series-dotnet?repoName=osisoft%2Fsample-adh-time_series-dotnet&branchName=main"
-                alt="Build Status"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+  
   <tr>
     <th align="middle" colspan="2">
       <h2>
@@ -454,7 +403,7 @@ The official ADH samples are divided in multiple categories depending on the sce
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="https://github.com/osisoft/sample-adh-csv_to_ocs-dotnet">CSV to ADH</a>
+        <a href="https://github.com/osisoft/sample-adh-csv_to_adh-dotnet">CSV to ADH</a>
       </b>
       <br />
       Shows how to send a basic csv file to ADH using SDS calls
@@ -463,14 +412,14 @@ The official ADH samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-csv_to_ocs-dotnet">.NET</a>
+            <a href="https://github.com/osisoft/sample-adh-csv_to_adh-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2615&repoName=osisoft%2Fsample-adh-csv_to_ocs-dotnet&branchName=main"
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2615&branchName=main"
             >
               <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-csv_to_ocs-dotnet?repoName=osisoft%2Fsample-adh-csv_to_ocs-dotnet&branchName=main"
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-csv_to_adh-dotnet?branchName=main"
                 alt="Build Status"
               />
             </a>
@@ -673,7 +622,7 @@ The official ADH samples are divided in multiple categories depending on the sce
               href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3541&branchName=main"
             >
               <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/aveva.sample-adh-data_views-dotnet?branchName=main"
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views-dotnet?branchName=main"
                 alt="Build Status"
               />
             </a>
@@ -728,7 +677,7 @@ The official ADH samples are divided in multiple categories depending on the sce
               href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3168&branchName=main"
             >
               <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/aveva.sample-adh-data_views_r-r?branchName=main"
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views_r-r?branchName=main"
                 alt="Build Status"
               />
             </a>
@@ -841,7 +790,7 @@ The official ADH samples are divided in multiple categories depending on the sce
         <a href="https://github.com/osisoft/sample-ocs-security_management-python">Security Management</a>
       </b>
       <br />
-      Covers security configuration within OCS. This includes creating a custom role, creating a user, inviting a user, setting Access Control Lists (ACLs) for collections, setting ACLs for collection items, setting an owner for a collection item, and retrieving access rights.
+      Covers security configuration within ADH. This includes creating a custom role, creating a user, inviting a user, setting Access Control Lists (ACLs) for collections, setting ACLs for collection items, setting an owner for a collection item, and retrieving access rights.
       <br />
       <br />
       <table align="middle">
@@ -871,7 +820,7 @@ The official ADH samples are divided in multiple categories depending on the sce
         <a href="https://github.com/osisoft/sample-ocs-stream_type_change-python"> Stream Type Change </a>
       </b>
       <br />
-      This sample highlights changing an OCS Stream's underlying SDS Type. The main purpose of this sample is to demonstrate the steps necessary to change the underlying SDS Type, and the secondary purpose is to provide an as-is utility to perform this Type change on PI Adapter v1.1 Streams after upgrading to v1.2.
+      This sample highlights changing an ADH Stream's underlying SDS Type. The main purpose of this sample is to demonstrate the steps necessary to change the underlying SDS Type, and the secondary purpose is to provide an as-is utility to perform this Type change on PI Adapter v1.1 Streams after upgrading to v1.2.
       <br />
       <br />
       <table align="middle">
