@@ -58,7 +58,7 @@ The official ADH samples are divided in multiple categories depending on the sce
     </td>
     <td align="middle" valign="top">
       <b>
-        <a href="https://github.com/osisoft/sample-adh-authentication_hybrid_flow-dotnet"> Hybrid Flow</a>
+        <a href="https://github.com/osisoft/sample-adh-authentication_hybrid-dotnet"> Hybrid Flow</a>
       </b>
       <br />
       Click for
