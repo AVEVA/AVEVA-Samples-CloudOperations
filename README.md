@@ -129,21 +129,6 @@ The official ADH samples are divided in multiple categories depending on the sce
         </tr>
         <tr>
           <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-authentication_authorization-powerbi">PowerBI</a>
-          </td>
-          <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2608&branchName=main"
-            >
-              <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_authorization-powerbi?branchName=main"
-                alt="Build Status"
-              />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
             <a href="https://github.com/osisoft/sample-adh-authentication_authorization-python">Python</a>
           </td>
           <td align="middle">
