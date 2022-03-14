@@ -1,0 +1,37 @@
+[
+    {
+        "Title": ".NET Libraries",
+        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in .NET with the Aveva Data Hub Client Library",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials-dotnet"
+    },
+    {
+        "Title": ".NET REST API",
+        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in .NET with the Aveva Data Hub REST API",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-dotnet"
+    },
+    {
+        "Title": "Java",
+        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Java",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-java"
+    },
+    {
+        "Title": "NodeJS",
+        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in NodeJS",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-nodejs"
+    },
+    {
+        "Title": "Postman",
+        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Postman",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-postman"
+    },
+    {
+        "Title": "Powershell",
+        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Powershell",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-powershell"
+    },
+    {
+        "Title": "Python",
+        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Python",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-python"
+    }
+]

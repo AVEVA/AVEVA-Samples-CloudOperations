@@ -1,0 +1,17 @@
+[
+    {
+        "Title": ".NET",
+        "Description": "Authenticating to Aveva Data Hub using Authorization Code Flow with PKCE in .NET",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_authorization-dotnet"
+    },
+    {
+        "Title": "NodeJS",
+        "Description": "Authenticating to Aveva Data Hub using Authorization Code Flow with PKCE in NodeJS",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_authorization-nodejs"
+    },
+    {
+        "Title": "Python",
+        "Description": "Authenticating to Aveva Data Hub using Authorization Code Flow with PKCE in Python",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_authorization-python"
+    }
+]

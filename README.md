@@ -1,8 +1,5 @@
 # AVEVA ADH Samples
 
-| :loudspeaker: **Notice**: samples have transitioned to being hosted in individual repositories |
-| ---------------------------------------------------------------------------------------------- |
-
 | :loudspeaker: **Notice**: Samples have been updated to reflect that they work on AVEVA Data Hub. The samples also work on OSIsoft Cloud Services unless otherwise noted. |
 | -----------------------------------------------------------------------------------------------|  
 
@@ -10,12 +7,6 @@ AVEVA Data Hub ([ADH](https://www.osisoft.com/Solutions/OSIsoft-Cloud-Services/)
 centralized environment to aggregate data for reporting, advanced analytics, and third-party applications. ADH is powered by AVEVA's Sequential Data Store (SDS). In this GitHub repo, we provide samples which will help you get started with the [ADH API](https://ocs-docs.osisoft.com/) against your [ADH instance](https://cloud.osisoft.com/welcome).
 
 If you are interested in other AVEVA samples please see [AVEVA Samples](https://github.com/osisoft/OSI-Samples).
-
-There is currently one type of sample in the repo:
-
-- ![getting-started icon](images/app-type-getting-started.png) Getting Started - ADH focused samples for a task, usually implemented as a simple console app or single page application. There are also base libraries that may be used in other apps.
-
-- ![ctp icon](images/ctp.png) This task and code uses services that are currently in preview. If you are interested in this functionality, please contact ADH support.
 
 The official ADH samples are divided in multiple categories depending on the scenario and problem/task, accessible through the following table:
 
@@ -41,7 +32,7 @@ The official ADH samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials-dotnet">.NET</a>
+            <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials-dotnet">.NET Libraries</a>
           </td>
           <td align="middle">
             <a
@@ -49,6 +40,96 @@ The official ADH samples are divided in multiple categories depending on the sce
             >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials-dotnet?repoName=osisoft%2Fsample-adh-authentication_client_credentials-dotnet&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-dotnet">.NET REST API</a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4393&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-dotnet&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/aveva.sample-adh-authentication_client_credentials_simple-dotnet?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-dotnet&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-java">Java</a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4475&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-java?branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-nodejs">NodeJS</a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4474&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-nodejs&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-nodejs?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-nodejs&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-postman">Postman</a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4521&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-postman&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-postman?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-postman&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-powershell">Powershell</a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4479&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-powershell&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-powershell?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-powershell&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-python">Python</a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4392&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-python&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-python?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-python&branchName=main"
                 alt="Build Status"
               />
             </a>
