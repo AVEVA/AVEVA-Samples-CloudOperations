@@ -569,7 +569,7 @@ The official ADH samples are divided in multiple categories depending on the sce
       <table align="middle">
         <tr>
           <td align="middle">
-            <ahref="https://github.com/osisoft/sample-adh-assets_rest_api-dotnet">.NET</a>
+            <a href="https://github.com/osisoft/sample-adh-assets_rest_api-dotnet">.NET</a>
           </td>
           <td align="middle">
             <a
@@ -584,7 +584,7 @@ The official ADH samples are divided in multiple categories depending on the sce
         </tr>
         <tr>
           <td align="middle">
-            <ahref="https://github.com/osisoft/sample-adh-assets-python">Python</a>
+            <a href="https://github.com/osisoft/sample-adh-assets-python">Python</a>
           </td>
           <td align="middle">
             <a
