@@ -33,5 +33,10 @@
         "Title": "Python",
         "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Python",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-python"
+    },
+    {
+        "Title": "Rust",
+        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Rust",
+        "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-rust"
     }
 ]
