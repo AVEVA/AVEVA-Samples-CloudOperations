@@ -419,7 +419,7 @@ The official ADH samples are divided in multiple categories depending on the sce
     <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="docs/AUTHENTICATION.md"> PI to ADH Read Only Streams </a>
+        <a href="docs/PI_TO_ADH_READ_DATA.md"> PI to ADH Read Only Streams </a>
       </b>
       <br />
       Covers how to invoke SDS REST APIs via the sample client libraries to read data from PI to ADH streams ingressed to Data Hub.
