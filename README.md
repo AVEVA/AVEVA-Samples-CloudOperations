@@ -965,6 +965,36 @@ The official ADH samples are divided in multiple categories depending on the sce
         </tr>
       </table>
     </td>
+    <td align="middle" valign="top">
+      <b>
+        <a href="https://github.com/osisoft/sample-adh-pi_to_adh_transfer_verification-powershell"> PI to AVEVA Data Hub Transfer Verification Sample </a>
+      </b>
+      <br />
+      This sample can be used to compare data stored in a PI Data Archive to data written to AVEVA Data Hub through the PI to Data Hub agent.
+      <br />
+      <br />
+      <table align="middle">
+        <tr>
+          <td align="middle">
+            <a
+              href="https://github.com/osisoft/sample-adh-pi_to_adh_transfer_verification-powershell"
+            >
+              PowerShell
+            </a>
+          </td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4668&repoName=osisoft%2Fsample-adh-pi_to_adh_transfer_verification-powershell&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/osisoft.sample-adh-pi_to_adh_transfer_verification-powershell?repoName=osisoft%2Fsample-adh-pi_to_adh_transfer_verification-powershell&branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
