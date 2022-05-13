@@ -891,7 +891,16 @@ The official ADH samples are divided in multiple categories depending on the sce
               Java
             </a>
           </td>
-          <td align="middle">~~~~~~~~~~~~~~~~~~~</td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2621&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-sample_libraries-java?branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
         </tr>
         <tr>
           <td align="middle">
@@ -901,7 +910,16 @@ The official ADH samples are divided in multiple categories depending on the sce
               Python
             </a>
           </td>
-          <td align="middle">~~~~~~~~~~~~~~~~~~~</td>
+          <td align="middle">
+            <a
+              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4674&branchName=main"
+            >
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-sample_libraries-python?branchName=main"
+                alt="Build Status"
+              />
+            </a>
+          </td>
         </tr>
       </table>
     </td>
