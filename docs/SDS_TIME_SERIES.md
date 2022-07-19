@@ -25,10 +25,10 @@ These steps illustrate the fundamental programming steps of SDS. Feel free to mo
 
 Step numbers are searchable in the code. For example to find the relevant part of the code for accepting verbosity, search: `step 9`
 
-| Languages                                                          | Test Status                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Python](https://github.com/osisoft/sample-adh-time_series-python) | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-time_series-python?repoName=osisoft%2Fsample-adh-time_series-python&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2624&repoName=osisoft%2Fsample-adh-time_series-python&branchName=main) |
-| [DotNet](https://github.com/osisoft/sample-adh-time_series-dotnet) | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-time_series-dotnet?repoName=osisoft%2Fsample-adh-time_series-dotnet&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2623&repoName=osisoft%2Fsample-adh-time_series-dotnet&branchName=main) |
+| Languages  | 
+| --- |
+| [Python](https://github.com/osisoft/sample-adh-time_series-python) |
+| [DotNet](https://github.com/osisoft/sample-adh-time_series-dotnet) | 
 
 ---
 

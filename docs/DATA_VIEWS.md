@@ -19,11 +19,11 @@ The steps performed in the samples are similar and follow this general flow as s
 1. Demonstrate accept-verbosity header usage 
 1. Delete sample objects from ADH
 
-| Languages                                                         | Test Status                                                                                                                                                                                                                                                                                                                                         |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Languages | 
+| --- | 
 | [Java](https://github.com/osisoft/sample-adh-data_views-java)     | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views-java?repoName=osisoft%2Fsample-adh-data_views-java&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2617&repoName=osisoft%2Fsample-adh-data_views-java&branchName=main)       |
-| [Python](https://github.com/osisoft/sample-adh-data_views-python) | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views-python?repoName=osisoft%2Fsample-adh-data_views-python&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2618&repoName=osisoft%2Fsample-adh-data_views-python&branchName=main) |
-| [.NET](https://github.com/osisoft/sample-adh-data_views-dotnet)   | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/aveva.sample-adh-data_views-dotnet?branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3541&branchName=main)                                                                                                     |
+| [Python](https://github.com/osisoft/sample-adh-data_views-python) | 
+| [.NET](https://github.com/osisoft/sample-adh-data_views-dotnet)   |
 
 For the main ADH page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
 For the main samples page [ReadMe](https://github.com/osisoft/OSI-Samples)

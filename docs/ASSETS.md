@@ -19,10 +19,10 @@ The steps performed in these samples follow the same basic pattern.
 1. Search for an asset by asset type id
 1. Clean up assets, asset types, stream, and type
 
-| Languages                                                            | Test Status                                                                                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [.NET](https://github.com/osisoft/sample-adh-assets_rest_api-dotnet) | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-assets_rest_api-dotnet?repoName=osisoft%2Fsample-adh-assets_rest_api-dotnet&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3279&repoName=osisoft%2Fsample-adh-assets_rest_api-dotnet&branchName=main) |
-| [Python](https://github.com/osisoft/sample-adh-assets-python)        | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-assets-python?repoName=osisoft%2Fsample-adh-assets-python&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3402&repoName=osisoft%2Fsample-adh-assets-python&branchName=main)                            |
+| Languages  | 
+| --- |
+| [.NET](https://github.com/osisoft/sample-adh-assets_rest_api-dotnet) |
+| [Python](https://github.com/osisoft/sample-adh-assets-python)        | 
 
 For the main ADH page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
 For the main samples page [ReadMe](https://github.com/osisoft/OSI-Samples)

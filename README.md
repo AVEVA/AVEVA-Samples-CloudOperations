@@ -1,7 +1,7 @@
 # AVEVA ADH Samples
 
 | :loudspeaker: **Notice**: Samples have been updated to reflect that they work on AVEVA Data Hub. The samples also work on OSIsoft Cloud Services unless otherwise noted. |
-| -----------------------------------------------------------------------------------------------|  
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 AVEVA Data Hub ([ADH](https://www.osisoft.com/Solutions/OSIsoft-Cloud-Services/)) is a highly flexible cloud-based platform that provides a scalable, elastic,
 centralized environment to aggregate data for reporting, advanced analytics, and third-party applications. ADH is powered by AVEVA's Sequential Data Store (SDS). In this GitHub repo, we provide samples which will help you get started with the [ADH API](https://ocs-docs.osisoft.com/) against your [ADH instance](https://cloud.osisoft.com/welcome).
@@ -10,14 +10,8 @@ If you are interested in other AVEVA samples please see [AVEVA Samples](https://
 
 The official ADH samples are divided in multiple categories depending on the scenario and problem/task, accessible through the following table:
 
+<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/AUTHENTICATION.md"><b>Authentication</b></a></summary>
 <table align="middle" width="100%">
-  <tr>
-    <th align="middle" colspan="2">
-      <h2>
-        <a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/AUTHENTICATION.md">Authentication</a>
-      </h2>
-    </th>
-  </tr>
   <tr>
     <td align="middle" valign="top">
       <b>
@@ -35,14 +29,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials-dotnet">.NET Libraries</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2582&repoName=osisoft%2Fsample-adh-authentication_client_credentials-dotnet&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials-dotnet?repoName=osisoft%2Fsample-adh-authentication_client_credentials-dotnet&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -50,14 +40,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-dotnet">.NET REST API</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4393&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-dotnet&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/aveva.sample-adh-authentication_client_credentials_simple-dotnet?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-dotnet&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -65,14 +51,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-java">Java</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4475&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-java?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -80,14 +62,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-nodejs">NodeJS</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4474&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-nodejs&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-nodejs?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-nodejs&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -95,14 +73,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-postman">Postman</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4521&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-postman&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-postman?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-postman&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -110,14 +84,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-powershell">Powershell</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4479&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-powershell&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-powershell?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-powershell&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -125,14 +95,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-python">Python</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4392&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-python?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-python&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -140,14 +106,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-rust">Rust</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4476&repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-rust&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_client_credentials_simple-rust?repoName=osisoft%2Fsample-adh-authentication_client_credentials_simple-rust&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -168,14 +130,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_hybrid-dotnet">.NET</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3091&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_hybrid-dotnet?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -198,14 +156,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_authorization-dotnet">.NET</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2602&repoName=osisoft%2Fsample-adh-authentication_authorization-dotnet&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_authorization-dotnet?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -213,14 +167,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_authorization-nodejs">NodeJS</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3089&repoName=osisoft%2Fsample-adh-authentication_authorization-nodejs&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_authorization-nodejs?repoName=osisoft%2Fsample-adh-authentication_authorization-nodejs&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -228,27 +178,21 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-authentication_authorization-python">Python</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2611&repoName=osisoft%2Fsample-adh-authentication_authorization-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-authentication_authorization-python?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
     </td>
     <td></td>
   </tr>
-  <tr>
-    <th align="middle" colspan="2">
-      <h2>        
-      <a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md">Types, Streams, and Retrieving Data</a>
-      </h2>
-    </th>
-  </tr>
+</table>
+</details>
+
+<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md"><b>Types, Streams, and Retrieving Data</b></a></summary>
+<table align="middle" width="100%">
   <tr>
     <td align="middle" valign="top">
       <b>
@@ -270,14 +214,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-waveform_libraries-dotnet">.NET Libraries</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3094&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform_libraries-dotnet?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -285,14 +225,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-waveform_rest_api-dotnet">.NET REST API</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3093&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform_rest_api-dotnet?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -302,14 +238,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2629&repoName=osisoft%2Fsample-adh-waveform-java&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-java?repoName=osisoft%2Fsample-adh-waveform-java&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -319,14 +251,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2626&repoName=osisoft%2Fsample-adh-waveform-angular&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-angular?repoName=osisoft%2Fsample-adh-waveform-angular&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -336,14 +264,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2630&repoName=osisoft%2Fsample-adh-waveform-nodejs&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-nodejs?repoName=osisoft%2Fsample-adh-waveform-nodejs&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -353,14 +277,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2631&repoName=osisoft%2Fsample-adh-waveform-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-python?repoName=osisoft%2Fsample-adh-waveform-python&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -387,14 +307,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2624&repoName=osisoft%2Fsample-adh-time_series-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-time_series-python?repoName=osisoft%2Fsample-adh-time_series-python&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -404,14 +320,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2623&repoName=osisoft%2Fsample-adh-time_series-dotnet&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-time_series-dotnet?repoName=osisoft%2Fsample-adh-time_series-dotnet&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -431,14 +343,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-pi-to-adh-read-only-data-dotnet">.NET</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4507&branchName=main"
-            >
             <img
               src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-pi-to-adh-read-only-data-dotnet?branchName=main"
               alt="Build Status"
             />
-            </a>
           </td>
         </tr>
         <tr>
@@ -446,14 +354,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-pi-to-adh-read-only-data-python">Python</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4498&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-pi-to-adh-read-only-data-python?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -461,13 +365,11 @@ The official ADH samples are divided in multiple categories depending on the sce
     <td></td>
   </tr>
   </tr>
-  
-  <tr>
-    <th align="middle" colspan="2">
-      <h2>
-      <a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/DATA_INGRESS.md">Data Ingress</a></h2>
-    </th>
-  </tr>
+</table>
+</details>
+
+<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/DATA_INGRESS.md"><b>Data Ingress</b></a></summary>
+<table align="middle" width="100%">
   <tr>
     <td align="middle" valign="top">
       <b>
@@ -485,14 +387,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2620&repoName=osisoft%2Fsample-adh-omf_ingress-dotnet&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-omf_ingress-dotnet?repoName=osisoft%2Fsample-adh-omf_ingress-dotnet&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -512,14 +410,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-bulk_upload-dotnet">.NET</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2614&repoName=osisoft%2Fsample-adh-bulk_upload-dotnet&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-bulk_upload-dotnet?repoName=osisoft%2Fsample-adh-bulk_upload-dotnet&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -540,80 +434,67 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-csv_to_adh-dotnet">.NET</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2615&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-csv_to_adh-dotnet?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
     </td>
     <td></td>
   </tr>
-  <tr>
-    <th align="middle" colspan="2">
-      <h2>
-        <a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/VISUALIZATION.md">Visualization</a></h2>
-    </th>
-  </tr>
-  <tr>
-    <td align="middle" valign="top">
-      <b>
-        <a href="https://github.com/osisoft/sample-adh-grafana-nodejs">Grafana </a>
-      </b>
-      <br />
-      Demonstrates how to build a Grafana plugin that retrieves stream data from
-      Sequential Data Store
-      <br />
-      <br />
-      <table align="middle">
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-grafana-nodejs">NodeJS</a>
-          </td>
-          <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2619&repoName=osisoft%2Fsample-adh-grafana-nodejs&branchName=main"
-            >
-              <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-grafana-nodejs?repoName=osisoft%2Fsample-adh-grafana-nodejs&branchName=main"
-                alt="Build Status"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="middle" valign="top" width="50%">
-      <b>
-        <a href="https://github.com/osisoft/sample-sds-visualization-angular">SDS Visualization</a>
-      </b>
-      <br />
-      This sample demonstrates a basic visualization application that can find and trend values from streams in the Sequential Data Store.
-      <br />
-      <br />
-      <table align="middle">
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-sds-visualization-angular">Angular</a>
-          </td>
-          <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2686&repoName=osisoft%2Fsample-sds-visualization-angular&branchName=main"
-            >
-              <img
-                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/SDS/aveva.sample-sds-visualization-angular?repoName=osisoft%2Fsample-sds-visualization-angular&branchName=main"
-                alt="Build Status"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
+  </table>
+</details>
+  
+<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/VISUALIZATION.md"><b>Visualization</b></a></summary>
+<table align="middle" width="100%">
+<tr>
+  <td align="middle" valign="top">
+    <b>
+      <a href="https://github.com/osisoft/sample-adh-grafana-nodejs">Grafana </a>
+    </b>
+    <br />
+    Demonstrates how to build a Grafana plugin that retrieves stream data from
+    Sequential Data Store
+    <br />
+    <br />
+    <table align="middle">
+      <tr>
+        <td align="middle">
+          <a href="https://github.com/osisoft/sample-adh-grafana-nodejs">NodeJS</a>
+        </td>
+        <td align="middle">
+            <img
+              src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-grafana-nodejs?repoName=osisoft%2Fsample-adh-grafana-nodejs&branchName=main"
+              alt="Build Status"
+            />
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td align="middle" valign="top" width="50%">
+    <b>
+      <a href="https://github.com/osisoft/sample-sds-visualization-angular">SDS Visualization</a>
+    </b>
+    <br />
+    This sample demonstrates a basic visualization application that can find and trend values from streams in the Sequential Data Store.
+    <br />
+    <br />
+    <table align="middle">
+      <tr>
+        <td align="middle">
+          <a href="https://github.com/osisoft/sample-sds-visualization-angular">Angular</a>
+        </td>
+        <td align="middle">
+            <img
+              src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/SDS/aveva.sample-sds-visualization-angular?repoName=osisoft%2Fsample-sds-visualization-angular&branchName=main"
+              alt="Build Status"
+            />
+        </td>
+      </tr>
+    </table>
+  </td>
   </tr>
   <tr>
     <td align="middle" valign="top" width="50%">
@@ -631,14 +512,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-assets_rest_api-dotnet">.NET</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3279&repoName=osisoft%2Fsample-adh-assets_rest_api-dotnet&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-assets_rest_api-dotnet?repoName=osisoft%2Fsample-adh-assets_rest_api-dotnet&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -646,14 +523,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-assets-python">Python</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3402&repoName=osisoft%2Fsample-adh-assets-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-assets-python?repoName=osisoft%2Fsample-adh-assets-python&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -680,11 +553,11 @@ The official ADH samples are divided in multiple categories depending on the sce
       </table>
     </td>
   </tr>
-  <tr>
-    <th align="middle" colspan="2">
-      <h2><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/ANALYTICS.md">Analytics</a></h2>
-    </th>
-  </tr>
+</table>
+</details>
+  
+<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/ANALYTICS.md"><b>Analytics</b></a></summary>
+<table align="middle" width="100%">
   <tr>
     <td align="middle" valign="top">
       <b>
@@ -704,14 +577,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2617&repoName=osisoft%2Fsample-adh-data_views-java&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views-java?repoName=osisoft%2Fsample-adh-data_views-java&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -721,14 +590,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2618&repoName=osisoft%2Fsample-adh-data_views-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views-python?repoName=osisoft%2Fsample-adh-data_views-python&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -738,14 +603,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3541&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views-dotnet?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -765,14 +626,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-data_views_jupyter-python">Jupyter Notebook</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3095&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views_jupyter-python?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -793,26 +650,22 @@ The official ADH samples are divided in multiple categories depending on the sce
             <a href="https://github.com/osisoft/sample-adh-data_views_r-r">R</a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3168&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-data_views_r-r?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
     </td>
     <td></td>
   </tr>
-  <tr>
-    <th align="middle" colspan="2">
-      <h2><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/OTHER.md">Functionality & Utilities</a></h2>
-    </th>
-  </tr>
-  <tr>
+</table>
+</details>
+
+<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/OTHER.md"><b>Functionality & Utilities</b></a></summary>
+<table align="middle" width="100%">
+ <tr>
     <td align="middle" valign="top">
       <b>
         <a href="https://github.com/osisoft/sample-adh-uom-dotnet">UOM</a>
@@ -829,14 +682,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2625&repoName=osisoft%2Fsample-adh-uom-dotnet&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-uom-dotnet?repoName=osisoft%2Fsample-adh-uom-dotnet&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -857,14 +706,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3856&repoName=osisoft%2Fsample-adh-namespace_data_copy-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-namespace_data_copy-python?repoName=osisoft%2Fsample-adh-namespace_data_copy-python&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -892,14 +737,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2621&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-sample_libraries-java?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
         <tr>
@@ -911,14 +752,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4674&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-sample_libraries-python?branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -939,14 +776,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4027&repoName=osisoft%2Fsample-ocs-security_management-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-security_management-python?repoName=osisoft%2Fsample-ocs-security_management-python&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -971,14 +804,10 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4426&repoName=osisoft%2Fsample-ocs-stream_type_change-python&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-stream_type_change-python?repoName=osisoft%2Fsample-ocs-stream_type_change-python&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
@@ -1001,24 +830,20 @@ The official ADH samples are divided in multiple categories depending on the sce
             </a>
           </td>
           <td align="middle">
-            <a
-              href="https://dev.azure.com/osieng/engineering/_build/latest?definitionId=4668&repoName=osisoft%2Fsample-adh-pi_to_adh_transfer_verification-powershell&branchName=main"
-            >
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/osisoft.sample-adh-pi_to_adh_transfer_verification-powershell?repoName=osisoft%2Fsample-adh-pi_to_adh_transfer_verification-powershell&branchName=main"
                 alt="Build Status"
               />
-            </a>
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
+</details>
+<br>
 
-~~ These libraries are tested by being used in other apps.
-
-**Note**: Tests with automated UI browser components (such as Hybrid Authentication, Authorization Code Flow and Angular samples) fail intermittently due to automatation issues.
+**Note**: Tests with automated UI browser components (such as Hybrid Authentication, Authorization Code Flow and Angular samples) fail intermittently due to automation issues.
 
 For OMF to ADH samples please see the OMF repository: [OSI-Samples-OMF](https://github.com/osisoft/OSI-Samples-OMF)
 

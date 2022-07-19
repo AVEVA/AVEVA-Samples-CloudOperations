@@ -35,14 +35,15 @@ These steps illustrate the fundamental programming steps of SDS. Feel free to mo
 
 Step numbers are searchable in the code. For example, to find the relevant part of the code for filtering on types, search: `step 15`
 
-| Languages                                                                         | Test Status                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [.NET Libraries](https://github.com/osisoft/sample-adh-waveform_libraries-dotnet) | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform_libraries-dotnet?branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3094&branchName=main)                                                                                      |
-| [.NET REST API](https://github.com/osisoft/sample-adh-waveform_rest_api-dotnet)   | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform_rest_api-dotnet?branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3093&branchName=main)                                                                                       |
-| [Java](https://github.com/osisoft/sample-adh-waveform-java)                       | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-java?repoName=osisoft%2Fsample-adh-waveform-java&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2629&repoName=osisoft%2Fsample-adh-waveform-java&branchName=main)          |
-| [Angular](https://github.com/osisoft/sample-adh-waveform-angular)                 | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-angular?repoName=osisoft%2Fsample-adh-waveform-angular&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2626&repoName=osisoft%2Fsample-adh-waveform-angular&branchName=main) |
-| [NodeJS](https://github.com/osisoft/sample-adh-waveform-nodejs)                   | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-nodejs?repoName=osisoft%2Fsample-adh-waveform-nodejs&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2630&repoName=osisoft%2Fsample-adh-waveform-nodejs&branchName=main)    |
-| [Python](https://github.com/osisoft/sample-adh-waveform-python)</a>               | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-python?repoName=osisoft%2Fsample-adh-waveform-python&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2631&repoName=osisoft%2Fsample-adh-waveform-python&branchName=main)    |
+
+| Languages | 
+| ------ | 
+| [.NET Libraries](https://github.com/osisoft/sample-adh-waveform_libraries-dotnet) | 
+| [.NET REST API](https://github.com/osisoft/sample-adh-waveform_rest_api-dotnet)   |
+| [Java](https://github.com/osisoft/sample-adh-waveform-java)                       |
+| [Angular](https://github.com/osisoft/sample-adh-waveform-angular)                 | 
+| [NodeJS](https://github.com/osisoft/sample-adh-waveform-nodejs)                   |
+| [Python](https://github.com/osisoft/sample-adh-waveform-python)</a>               | 
 
 ---
 
