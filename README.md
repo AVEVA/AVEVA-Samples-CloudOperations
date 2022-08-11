@@ -839,6 +839,36 @@ The official ADH samples are divided in multiple categories depending on the sce
       </table>
     </td>
   </tr>
+  <tr>
+    <td align="middle" valign="top">
+      <b>
+        <a href="https://github.com/osisoft/sample-adh-data_hub_to_pi-python"> Data Hub to PI </a>
+      </b>
+      <br />
+      This sample uses REST API calls to the Sequential Data Store of AVEVA Data Hub to collect Types, Streams, and data and create corresponding PI Tags in a Data Archive through OMF messages.
+      <br />
+      <br />
+      <table align="middle">
+        <tr>
+          <td align="middle">
+            <a
+              href="https://github.com/osisoft/sample-adh-data_hub_to_pi-python"
+            >
+              Python
+            </a>
+          </td>
+          <td align="middle">
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/osisoft.sample-adh-data_hub_to_pi-python?repoName=osisoft%2Fsample-adh-data_hub_to_pi-python&branchName=main"
+                alt="Build Status"
+              />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="middle" valign="top">
+    </td>
+  </tr>
 </table>
 </details>
 <br>

@@ -33,7 +33,8 @@ This sample can be used to compare data stored in a PI Data Archive to data writ
 | [Sample Libraries](https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/SAMPLE_LIBRARIES.md) | [Java](https://github.com/osisoft/sample-adh-sample_libraries-java) </br> [Python](https://github.com/osisoft/sample-adh-sample_libraries-python) | 
 | [Security Management](https://github.com/osisoft/sample-adh-security_management-python) | [Python](https://github.com/osisoft/sample-adh-security_management-python) |  
 | [Stream Type Change](https://github.com/osisoft/sample-adh-stream_type_change-python) | [Python](https://github.com/osisoft/sample-adh-stream_type_change-python) | 
-| [PI to AVEVA Data Hub Transfer Verification Sample](https://github.com/osisoft/sample-adh-pi_to_adh_transfer_verification-powershell) | [PowerShell](https://github.com/osisoft/sample-adh-pi_to_adh_transfer_verification-powershell) | 
+| [PI to AVEVA Data Hub Transfer Verification Sample](https://github.com/osisoft/sample-adh-pi_to_adh_transfer_verification-powershell) | [PowerShell](https://github.com/osisoft/sample-adh-pi_to_adh_transfer_verification-powershell) |
+| [Data Hub to PI](https://github.com/osisoft/sample-adh-data_hub_to_pi-python) | [Python](https://github.com/osisoft/sample-adh-data_hub_to_pi-python) |
 
 For the main ADH page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
 For the main samples page [ReadMe](https://github.com/osisoft/OSI-Samples)
