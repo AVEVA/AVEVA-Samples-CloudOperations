@@ -25,6 +25,10 @@ This sample highlights changing an ADH Stream's underlying SDS Type. The main pu
 ## [PI to AVEVA Data Hub Transfer Verification Sample](https://github.com/osisoft/sample-adh-pi_to_adh_transfer_verification-powershell)
 
 This sample can be used to compare data stored in a PI Data Archive to data written to AVEVA Data Hub through the PI to Data Hub agent.  
+
+## [Data Hub to PI](https://github.com/osisoft/sample-adh-data_hub_to_pi-python)
+
+This sample uses REST API calls to the Sequential Data Store of AVEVA Data Hub to collect Types, Streams, and data and create corresponding PI Tags in a Data Archive through OMF messages.  
 <br/>
 | Tasks  | Languages  | 
 | ---- | --- |
