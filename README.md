@@ -8,7 +8,11 @@ centralized environment to aggregate data for reporting, advanced analytics, and
 
 If you are interested in other AVEVA samples please see [AVEVA Samples](https://github.com/osisoft/OSI-Samples).
 
-The official ADH samples are divided in multiple categories depending on the scenario and problem/task, accessible through the following table:
+If you are new to our APIs and are looking to get going quickly, the  [Types, Streams, and Retrieving Data](https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md) samples are good starting points.
+
+The official ADH samples are divided in multiple categories depending on the scenario and problem/task, accessible through the following table. 
+
+
 
 <details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/AUTHENTICATION.md"><b>Authentication</b></a></summary>
 <table align="middle" width="100%">
@@ -196,15 +200,10 @@ The official ADH samples are divided in multiple categories depending on the sce
   <tr>
     <td align="middle" valign="top">
       <b>
-        <a href="docs/SDS_WAVEFORM.md"> WaveForm </a>
+        <a href="docs/SDS_WAVEFORM.md"> Read & Write Data with Custom Index</a>
       </b>
       <br />
-      Covers some typical operations against the SDS, including client
-      credential authentication, creating, updating, and deleting types, streams
-      and events. This uses a non-time Series Type. Some tasks are different
-      from the other "Types, Streams, and retrieving Data" task, so look at the
-      task ReadMe for details. This is a recommended starting sample, and a
-      good a base for all other Tasks.
+      This sample covers CRUD operations against the SDS APIs using a non-time series data type called Waveform to illustrate example use cases. (Recommended starting sample)
       <a href="docs/SDS_WAVEFORM.md"> Details </a>
       <br />
       <br />
@@ -287,15 +286,10 @@ The official ADH samples are divided in multiple categories depending on the sce
     </td>
     <td align="middle" valign="top">
       <b>
-        <a href="docs/SDS_TIME_SERIES.md"> Time-Series </a>
+        <a href="docs/SDS_TIME_SERIES.md">Read & Write Time-Series Data</a>
       </b>
       <br />
-      Covers some typical operations against the SDS, including client
-      credential authentication, creating, and deleting types and streams. This
-      sample is based on Time-Series data. Some tasks are different from the
-      other "Types, Streams, and retrieving Data" task, so look at the task
-      ReadMe for details. This is a recommended starting sample, and a good a
-      base for all other Tasks.
+      This is similar to the Custom Index Data sample but instead uses a time-series data type to illustrate example use cases. (Recommended starting sample)
       <a href="docs/SDS_TIME_SERIES.md"> Details </a>
       <br />
       <br />

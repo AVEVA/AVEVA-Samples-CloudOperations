@@ -1,12 +1,12 @@
 # Welcome
 
-The SDS Client WaveForm samples are introductory, language-specific examples of programming against the SDS Service. They are intended as instructional samples only.
+The SDS Client Custom Index samples are introductory, language-specific examples of programming against the SDS Service. They are intended as instructional samples only.
 
-There are some differences between these samples and the TimesSeries samples. The differences include the Type being used, compresssion settings, and many of the steps. Please check out the Sample Pattern and code of both samples to determine which sample is most appropriate for you. All of the SDS Client WaveForm samples are set up to use GZip compression.
+There are some differences between these samples and the TimesSeries samples. The differences include the Type being used, compresssion settings, and many of the steps. Please check out the Sample Pattern and code of both samples to determine which sample is most appropriate for you. All of the SDS Client Custom Index samples are set up to use GZip compression.
 
 ## Sample Pattern
 
-All SDS WaveForm samples are console applications that follow the same sequence of events, allowing you to select the language with which you are most comfortable without missing any instructional features. The pattern followed is:
+All SDS Custom Index samples are console applications that follow the same sequence of events, allowing you to select the language with which you are most comfortable without missing any instructional features. The pattern followed is:
 
 1. Instantiate an SDS client and obtain an authentication token
 1. Create an SdsType to represent the data being stored
