@@ -446,7 +446,7 @@ The official ADH samples are divided in multiple categories depending on the sce
 <tr>
   <td align="middle" valign="top">
     <b>
-      <a href="https://github.com/osisoft/sample-adh-grafana-nodejs">Grafana </a>
+      <a href="https://github.com/osisoft/sample-adh-grafana_backend_plugin-datasource">Grafana</a>
     </b>
     <br />
     Demonstrates how to build a Grafana plugin that retrieves stream data from
@@ -456,11 +456,11 @@ The official ADH samples are divided in multiple categories depending on the sce
     <table align="middle">
       <tr>
         <td align="middle">
-          <a href="https://github.com/osisoft/sample-adh-grafana-nodejs">NodeJS</a>
+          <a href="https://github.com/osisoft/sample-adh-grafana_backend_plugin-datasource">NodeJS</a>
         </td>
         <td align="middle">
             <img
-              src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-grafana-nodejs?repoName=osisoft%2Fsample-adh-grafana-nodejs&branchName=main"
+              src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/osisoft.sample-adh-grafana_backend_plugin-datasource?repoName=osisoft%2Fsample-adh-grafana_backend_plugin-datasource&branchName=main"
               alt="Build Status"
             />
         </td>
