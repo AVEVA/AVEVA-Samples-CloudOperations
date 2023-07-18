@@ -50,7 +50,7 @@ In this OIDC flow, no refresh token is provided.
 
 Authorization Code Flow supports silent refresh, which makes it possible to receive a new access token while the user is both using the application and logged in with the Identity Provider in the same browser session. This is done behind the scenes without interrupting the user experience.
 
-The sample for this authentication flow can be found [here for DotNet](https://github.com/osisoft/sample-adh-authentication_authorization-dotnet), [here for JavaScript](https://github.com/osisoft/sample-adh-authentication_authorization-javascript), and [here for Python](https://github.com/osisoft/sample-adh-authentication_authorization-python).
+The sample for this authentication flow can be found [here for DotNet](https://github.com/osisoft/sample-adh-authentication_authorization-dotnet), [here for NodeJS](https://github.com/osisoft/sample-adh-authentication_authorization-nodejs), and [here for Python](https://github.com/osisoft/sample-adh-authentication_authorization-python).
 
 ### Client Credential Flow
 
