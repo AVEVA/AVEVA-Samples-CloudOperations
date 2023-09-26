@@ -192,7 +192,7 @@ The official ADH samples are divided in multiple categories depending on the sce
 </table>
 </details>
 
-<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md"><b>Types, Streams, and Retrieving Data</b></a></summary>
+<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md"><b>Types, Streams, Events, and Retrieving Data</b></a></summary>
 <table align="middle" width="100%">
   <tr>
     <td align="middle" valign="top">
@@ -353,8 +353,54 @@ The official ADH samples are divided in multiple categories depending on the sce
         </tr>
       </table>
     </td>
-    <td></td>
+    <td align="middle" valign="top">
+      <b>
+        <a href="https://github.com/osisoft/sample-adh-streaming-updates_rest_api-dotnet"> Streaming Updates </a>
+      </b>
+      <br />
+      Demonstrates REST API calls to ADH for creating a Signup to receive resource updates. Signups allow clients to subscribe resources (for example, streams) and get updates for those resources.
+      <br />
+      <br />
+      <table align="middle">
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-adh-streaming-updates_rest_api-dotnet">.NET</a>
+          </td>
+          <td align="middle">
+            <img
+              src="https://dev.azure.com/osieng/engineering/_apis/build/status%2Fproduct-readiness%2FADH%2Fosisoft.sample-adh-streaming-updates_rest_api-dotnet?repoName=osisoft%2Fsample-adh-streaming-updates_rest_api-dotnet&branchName=main"
+              alt="Build Status"
+            />
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
+    <td align="middle" valign="top">
+      <b>
+        <a href="https://github.com/osisoft/sample-adh-event_store-python"> Event Data </a>
+      </b>
+      <br />
+      Shows usage of the AVEVA Data Hub events store.
+      <br />
+      <br />
+      <table align="middle">
+        <tr>
+          <td align="middle">
+            <a href="https://github.com/osisoft/sample-adh-event_store-python">Python</a>
+          </td>
+          <td align="middle">
+            <img
+              src="https://dev.azure.com/osieng/engineering/_apis/build/status%2Fproduct-readiness%2FADH%2Fosisoft.sample-adh-event_store-python?repoName=osisoft%2Fsample-adh-event_store-python&branchName=main"
+              alt="Build Status"
+            />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+    </td>
+  <tr>
   </tr>
 </table>
 </details>
