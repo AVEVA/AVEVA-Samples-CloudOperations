@@ -381,7 +381,7 @@ The official ADH samples are divided in multiple categories depending on the sce
         <a href="https://github.com/osisoft/sample-adh-event_store-python"> Event Data </a>
       </b>
       <br />
-      Shows usage of the AVEVA Data Hub events store.
+      This sample covers CRUD operations against the AVEVA Data Hub events store. This includes authorization tags, enumerations, reference data, and events.
       <br />
       <br />
       <table align="middle">
