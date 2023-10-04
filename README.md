@@ -192,171 +192,214 @@ The official ADH samples are divided in multiple categories depending on the sce
 </table>
 </details>
 
-<details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md"><b>Types, Streams, and Retrieving Data</b></a></summary>
-<table align="middle" width="100%">
-  <tr>
-    <td align="middle" valign="top">
-      <b>
-        <a href="docs/SDS_WAVEFORM.md"> Read & Write Data with Custom Index</a>
-      </b>
-      <br />
-      This sample covers CRUD operations against the SDS APIs using a non-time series data type called Waveform to illustrate example use cases. (Recommended starting sample)
-      <a href="docs/SDS_WAVEFORM.md"> Details </a>
-      <br />
-      <br />
-      <table align="middle">
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-waveform_libraries-dotnet">.NET Libraries</a>
-          </td>
-          <td align="middle">
+<details>
+  <summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/COMMON_ACTIONS.md"><b>Types, Streams,
+        Events, and Retrieving Data</b></a></summary>
+  <table align="middle" width="100%">
+    <tr>
+      <td align="middle" valign="top">
+        <b>
+          <a href="docs/SDS_WAVEFORM.md"> Read & Write Data with Custom Index</a>
+        </b>
+        <br />
+        This sample covers CRUD operations against the SDS APIs using a non-time series data type called
+        Waveform to illustrate example use cases. (Recommended starting sample)
+        <a href="docs/SDS_WAVEFORM.md"> Details </a>
+        <br />
+        <br />
+        <table align="middle">
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-waveform_libraries-dotnet">.NET Libraries</a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform_libraries-dotnet?branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-waveform_rest_api-dotnet">.NET REST API</a>
-          </td>
-          <td align="middle">
+                alt="Build Status" />
+            </td>
+          </tr>
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-waveform_rest_api-dotnet">.NET REST API</a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform_rest_api-dotnet?branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-waveform-java">
-              Java
-            </a>
-          </td>
-          <td align="middle">
+                alt="Build Status" />
+            </td>
+          </tr>
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-waveform-java">
+                Java
+              </a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-java?repoName=osisoft%2Fsample-adh-waveform-java&branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-waveform-angular">
-              Angular
-            </a>
-          </td>
-          <td align="middle">
+                alt="Build Status" />
+            </td>
+          </tr>
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-waveform-angular">
+                Angular
+              </a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-angular?repoName=osisoft%2Fsample-adh-waveform-angular&branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-waveform-nodejs">
-              NodeJS
-            </a>
-          </td>
-          <td align="middle">
+                alt="Build Status" />
+            </td>
+          </tr>
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-waveform-nodejs">
+                NodeJS
+              </a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-nodejs?repoName=osisoft%2Fsample-adh-waveform-nodejs&branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-waveform-python">
-              Python
-            </a>
-          </td>
-          <td align="middle">
+                alt="Build Status" />
+            </td>
+          </tr>
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-waveform-python">
+                Python
+              </a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-waveform-python?repoName=osisoft%2Fsample-adh-waveform-python&branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="middle" valign="top">
-      <b>
-        <a href="docs/SDS_TIME_SERIES.md">Read & Write Time-Series Data</a>
-      </b>
-      <br />
-      This is similar to the Custom Index Data sample but instead uses a time-series data type to illustrate example use cases. (Recommended starting sample)
-      <a href="docs/SDS_TIME_SERIES.md"> Details </a>
-      <br />
-      <br />
-      <table align="middle">
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-time_series-python">
-              Python
-            </a>
-          </td>
-          <td align="middle">
+                alt="Build Status" />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td align="middle" valign="top">
+        <b>
+          <a href="docs/SDS_TIME_SERIES.md">Read & Write Time-Series Data</a>
+        </b>
+        <br />
+        This is similar to the Custom Index Data sample but instead uses a time-series data type to illustrate
+        example use cases. (Recommended starting sample)
+        <a href="docs/SDS_TIME_SERIES.md"> Details </a>
+        <br />
+        <br />
+        <table align="middle">
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-time_series-python">
+                Python
+              </a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-time_series-python?repoName=osisoft%2Fsample-adh-time_series-python&branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-adh-time_series-dotnet">
-              .NET
-            </a>
-          </td>
-          <td align="middle">
+                alt="Build Status" />
+            </td>
+          </tr>
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-time_series-dotnet">
+                .NET
+              </a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-adh-time_series-dotnet?repoName=osisoft%2Fsample-adh-time_series-dotnet&branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-      </table>
-    </td>
+                alt="Build Status" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
     <tr>
-    <td align="middle" valign="top">
-      <b>
-        <a href="docs/PI_TO_ADH_READ_DATA.md"> PI to ADH Read Only Streams </a>
-      </b>
-      <br />
-      Covers how to invoke SDS REST APIs via the sample client libraries to read data from PI to ADH streams ingressed to Data Hub.
-      <br />
-      <br />
-      <table align="middle">
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-pi-to-adh-read-only-data-dotnet">.NET</a>
-          </td>
-          <td align="middle">
-            <img
-              src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-pi-to-adh-read-only-data-dotnet?branchName=main"
-              alt="Build Status"
-            />
-          </td>
-        </tr>
-        <tr>
-          <td align="middle">
-            <a href="https://github.com/osisoft/sample-pi-to-adh-read-only-data-python">Python</a>
-          </td>
-          <td align="middle">
+      <td align="middle" valign="top">
+        <b>
+          <a href="docs/PI_TO_ADH_READ_DATA.md"> PI to ADH Read Only Streams </a>
+        </b>
+        <br />
+        Covers how to invoke SDS REST APIs via the sample client libraries to read data from PI to ADH streams
+        ingressed to Data Hub.
+        <br />
+        <br />
+        <table align="middle">
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-pi-to-adh-read-only-data-dotnet">.NET</a>
+            </td>
+            <td align="middle">
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-pi-to-adh-read-only-data-dotnet?branchName=main"
+                alt="Build Status" />
+            </td>
+          </tr>
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-pi-to-adh-read-only-data-python">Python</a>
+            </td>
+            <td align="middle">
               <img
                 src="https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/ADH/aveva.sample-pi-to-adh-read-only-data-python?branchName=main"
-                alt="Build Status"
-              />
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td></td>
-  </tr>
-  </tr>
-</table>
+                alt="Build Status" />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td align="middle" valign="top">
+        <b>
+          <a href="https://github.com/osisoft/sample-adh-streaming-updates_rest_api-dotnet"> Streaming Updates
+          </a>
+        </b>
+        <br />
+        Demonstrates REST API calls to ADH for creating a Signup to receive resource updates. Signups allow
+        clients to subscribe resources (for example, streams) and get updates for those resources.
+        <br />
+        <br />
+        <table align="middle">
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-streaming-updates_rest_api-dotnet">.NET</a>
+            </td>
+            <td align="middle">
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status%2Fproduct-readiness%2FADH%2Fosisoft.sample-adh-streaming-updates_rest_api-dotnet?repoName=osisoft%2Fsample-adh-streaming-updates_rest_api-dotnet&branchName=main"
+                alt="Build Status" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td align="middle" valign="top">
+        <b>
+          <a href="https://github.com/osisoft/sample-adh-event_store-python"> Event Data </a>
+        </b>
+        <br />
+        This sample covers CRUD operations against the AVEVA Data Hub events store. This includes authorization
+        tags, enumerations, reference data, and events.
+        <br />
+        <br />
+        <table align="middle">
+          <tr>
+            <td align="middle">
+              <a href="https://github.com/osisoft/sample-adh-event_store-python">Python</a>
+            </td>
+            <td align="middle">
+              <img
+                src="https://dev.azure.com/osieng/engineering/_apis/build/status%2Fproduct-readiness%2FADH%2Fosisoft.sample-adh-event_store-python?repoName=osisoft%2Fsample-adh-event_store-python&branchName=main"
+                alt="Build Status" />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details><summary><a href="https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/DATA_INGRESS.md"><b>Data Ingress</b></a></summary>
