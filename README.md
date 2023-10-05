@@ -208,6 +208,149 @@ Click here for general  <a href="https://github.com/aveva/OSI-Samples-OCS/blob/m
 </details>
 
 
+<details><summary><a href="https://www.aveva.com/en/products/aveva-data-hub/"><b> OMF</b></a><img width="48" height="48"
+                src="https://github.com/AVEVA/AVEVA-Samples/blob/main/miscellaneous/images/configuration--operations-management.png"></summary> 
+<table align="middle" width="100%">
+  <tr>
+   <td align="left" valign="top">
+    <a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/OTHER.md"><b>Functionality & Utilities</b></a>
+<details open><summary><a href="https://github.com/aveva/sample-adh-uom-dotnet"><b>   UOM</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-uom-dotnet">
+              .NET
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_views_jupyter-python"><b>   Data Views Jupyter</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-data_views_jupyter-python">Jupyter Notebook</a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-namespace_data_copy-python"><b>   Namespace Data Copy</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-namespace_data_copy-python">Python</a>
+</details>
+
+<details open><summary><a href="docs/SAMPLE_LIBRARIES.md"><b>   Sample Libraries </b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-sample_libraries-python">
+              Python
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-ocs-security_management-python"><b>  Security Management</b></a></summary>
+            <a href=https://github.com/aveva/sample-ocs-security_management-python">
+              Python
+            </a>
+
+<details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>  Stream Type Change</b></a></summary>
+            <a href="https://github.com/aveva/sample-ocs-stream_type_change-python">
+              Python
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-pi_to_adh_transfer_verification-powershell"><b> PI to AVEVA Data Hub Transfer Verification Sample</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-pi_to_adh_transfer_verification-powershell">
+              Powershell
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>  Data Hub to PI</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">
+              Python
+            </a>
+</details>
+    </td>
+    <td align="left" valign="top">
+    <a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/OTHER.md"><b>Functionality & Utilities</b></a>
+<details open><summary><a href="https://github.com/aveva/sample-adh-uom-dotnet"><b>   UOM</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-uom-dotnet">
+              .NET
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_views_jupyter-python"><b>   Data Views Jupyter</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-data_views_jupyter-python">Jupyter Notebook</a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-namespace_data_copy-python"><b>   Namespace Data Copy</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-namespace_data_copy-python">Python</a>
+</details>
+
+<details open><summary><a href="docs/SAMPLE_LIBRARIES.md"><b>   Sample Libraries </b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-sample_libraries-python">
+              Python
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-ocs-security_management-python"><b>  Security Management</b></a></summary>
+            <a href=https://github.com/aveva/sample-ocs-security_management-python">
+              Python
+            </a>
+
+<details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>  Stream Type Change</b></a></summary>
+            <a href="https://github.com/aveva/sample-ocs-stream_type_change-python">
+              Python
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-pi_to_adh_transfer_verification-powershell"><b> PI to AVEVA Data Hub Transfer Verification Sample</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-pi_to_adh_transfer_verification-powershell">
+              Powershell
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>  Data Hub to PI</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">
+              Python
+            </a>
+</details>
+    </td><td align="left" valign="top">
+    <a href="https://github.com/aveva/OSI-Samples-OCS/blob/main/docs/OTHER.md"><b>Functionality & Utilities</b></a>
+<details open><summary><a href="https://github.com/aveva/sample-adh-uom-dotnet"><b>   UOM</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-uom-dotnet">
+              .NET
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_views_jupyter-python"><b>   Data Views Jupyter</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-data_views_jupyter-python">Jupyter Notebook</a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-namespace_data_copy-python"><b>   Namespace Data Copy</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-namespace_data_copy-python">Python</a>
+</details>
+
+<details open><summary><a href="docs/SAMPLE_LIBRARIES.md"><b>   Sample Libraries </b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-sample_libraries-python">
+              Python
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-ocs-security_management-python"><b>  Security Management</b></a></summary>
+            <a href=https://github.com/aveva/sample-ocs-security_management-python">
+              Python
+            </a>
+
+<details open><summary><a href="https://github.com/aveva/sample-ocs-stream_type_change-python"><b>  Stream Type Change</b></a></summary>
+            <a href="https://github.com/aveva/sample-ocs-stream_type_change-python">
+              Python
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-pi_to_adh_transfer_verification-powershell"><b> PI to AVEVA Data Hub Transfer Verification Sample</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-pi_to_adh_transfer_verification-powershell">
+              Powershell
+            </a>
+</details>
+
+<details open><summary><a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python"><b>  Data Hub to PI</b></a></summary>
+            <a href="https://github.com/aveva/sample-adh-data_hub_to_pi-python">
+              Python
+            </a>
+</details>
+    </td>
+  </tr>
+</table>
+</details>
+
+
 **Note**: Tests with automated UI browser components (such as Hybrid Authentication, Authorization Code Flow and Angular samples) fail intermittently due to automation issues.
 
 For OMF to ADH samples please see the OMF repository: [OSI-Samples-OMF](https://github.com/aveva/OSI-Samples-OMF)
