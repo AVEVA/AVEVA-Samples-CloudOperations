@@ -1,4 +1,4 @@
-# AVEVA ADH Samples
+# AVEVA Cloud Operations Samples
 
 AVEVA Data Hub ([ADH](https://www.osisoft.com/Solutions/OSIsoft-Cloud-Services/)) is a highly flexible cloud-based platform that provides a scalable, elastic,
 centralized environment to aggregate data for reporting, advanced analytics, and third-party applications. ADH is powered by AVEVA's Sequential Data Store (SDS). In this GitHub repo, we provide samples which will help you get started with the [ADH API](https://ocs-docs.osisoft.com/) against your [ADH instance](https://cloud.osisoft.com/welcome).
