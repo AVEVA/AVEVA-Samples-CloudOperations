@@ -1,7 +1,7 @@
 [
     {
       "Title": ".NET",
-      "Description": "Authenticating to Aveva Data Hub using Hybrid Flow in .NET",
+      "Description": "Authenticating to CONNECT data services using Hybrid Flow in .NET",
       "Url": "https://github.com/osisoft/sample-adh-authentication_hybrid-dotnet"
     }
 ]

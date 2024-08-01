@@ -1,42 +1,42 @@
 [
     {
         "Title": ".NET Libraries",
-        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in .NET with the Aveva Data Hub Client Library",
+        "Description": "Authenticating to CONNECT data services using Client Credential Flow in .NET with the CONNECT data services Client Library",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials-dotnet"
     },
     {
         "Title": ".NET REST API",
-        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in .NET with the Aveva Data Hub REST API",
+        "Description": "Authenticating to CONNECT data services using Client Credential Flow in .NET with the CONNECT data services REST API",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-dotnet"
     },
     {
         "Title": "Java",
-        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Java",
+        "Description": "Authenticating to CONNECT data services using Client Credential Flow in Java",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-java"
     },
     {
         "Title": "NodeJS",
-        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in NodeJS",
+        "Description": "Authenticating to CONNECT data services using Client Credential Flow in NodeJS",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-nodejs"
     },
     {
         "Title": "Postman",
-        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Postman",
+        "Description": "Authenticating to CONNECT data services using Client Credential Flow in Postman",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-postman"
     },
     {
         "Title": "Powershell",
-        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Powershell",
+        "Description": "Authenticating to CONNECT data services using Client Credential Flow in Powershell",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-powershell"
     },
     {
         "Title": "Python",
-        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Python",
+        "Description": "Authenticating to CONNECT data services using Client Credential Flow in Python",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-python"
     },
     {
         "Title": "Rust",
-        "Description": "Authenticating to Aveva Data Hub using Client Credential Flow in Rust",
+        "Description": "Authenticating to CONNECT data services using Client Credential Flow in Rust",
         "Url": "https://github.com/osisoft/sample-adh-authentication_client_credentials_simple-rust"
     }
 ]
