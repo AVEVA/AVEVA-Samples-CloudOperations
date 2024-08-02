@@ -1,6 +1,6 @@
 # Intro
 
-This document is a guide on how to connect to AVEVA Data Hub (ADH) using a client of your choice. We will first cover the difference between authorization (AuthZ) and authentication (AuthN) and how they relate to you as a developer of ADH. Then we will introduce some possible scenarios using some GitHub examples.
+This document is a guide on how to connect to CONNECT data services (Cds) using a client of your choice. We will first cover the difference between authorization (AuthZ) and authentication (AuthN) and how they relate to you as a developer of ADH. Then we will introduce some possible scenarios using some GitHub examples.
 
 ## Authentication
 
@@ -22,8 +22,8 @@ For the rest of this document we will use the following language to refer to the
 
 - Resource Owner - This is a typically a user who owns some sort of resource in a server. For example, a company employee who has been registered as part of a tenant.
 - Client - Any software that the _resource owner_ uses to access resources. For example, a console app used to access data, a web browser, or a native application.
-- Resource Server - The server that holds some resources, owned by users, which they try to access. For example, the ADH Service that hold data for a tenant.
-- Authorization Server - The server that generates an Access Token for a client once it has been authenticated and given the right permissions by the resource owner. In our case this would be the ADH Identity Service.
+- Resource Server - The server that holds some resources, owned by users, which they try to access. For example, the Cds Service that hold data for a tenant.
+- Authorization Server - The server that generates an Access Token for a client once it has been authenticated and given the right permissions by the resource owner. In our case this would be the Cds Identity Service.
 - IdentityProvider - a third party that creates, maintains, and manages identity information for principals while providing authentication services. For example, Microsoft Account and Azure Active Directory.
 
 ## Other terms
@@ -35,9 +35,9 @@ These are some of the terms that you will encounter in this document and other r
 - Access Token - The JWT that results from a successful authentication process, and contains some predefined fields. This is sent as part of the Authorization header with all the following requests in the session.
 - Refresh Token - A token used to get a new Access Token after the current one expires, without having to go through the authentication process again. Usually has a long expiration date.
 
-## ADH Supported Authenticated Flows
+## Cds Supported Authenticated Flows
 
-Currently ADH supports a number of authentication flows. Based on your requirements choose the one that best fits your needs. The following subsections are more technical and implementation oriented than the first part of the document.
+Currently Cds supports a number of authentication flows. Based on your requirements choose the one that best fits your needs. The following subsections are more technical and implementation oriented than the first part of the document.
 
 ### Authorization Code Flow with PKCE
 
@@ -54,9 +54,9 @@ The sample for this authentication flow can be found [here for DotNet](https://g
 
 ### Client Credential Flow
 
-If you are writing software (client) to communicate with ADH without the presence of a user, then this is authentication flow you should follow. This flow was created for machine to machine communication.
+If you are writing software (client) to communicate with Cds without the presence of a user, then this is authentication flow you should follow. This flow was created for machine to machine communication.
 
-A client is any software that a resource owner uses to access his resources on a remote server. In this case the client itself is the resource owner, and there is no actual user to perform the authentication process. The client uses his Client Id and Client Secret to authenticate against ADH and is awarded an Access Token. It is assumed that the client stores the Client Secret in a safe location, and uses cryptographically secure channels -read https- to communicate with ADH. ADH only supports communication over https. No Refresh Token is awarded.
+A client is any software that a resource owner uses to access his resources on a remote server. In this case the client itself is the resource owner, and there is no actual user to perform the authentication process. The client uses his Client Id and Client Secret to authenticate against Cds and is awarded an Access Token. It is assumed that the client stores the Client Secret in a safe location, and uses cryptographically secure channels -read https- to communicate with Cds. Cds only supports communication over https. No Refresh Token is awarded.
 
 The overall steps for this process are as follows:
 1. Obtain the needed configuration information, including Tenant ID, Client ID, and Client Secret
